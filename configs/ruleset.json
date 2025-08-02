@@ -1,0 +1,73 @@
+{
+  "SpeedDomain": "https://fastly.jsdelivr.net/gh/",
+  "Set":         {
+	"Type":           "remote",
+	"UpdateInterval": "3d",
+	"Urls":           [
+	  {
+		"Tag": "cn",
+		"Url": "bwb0101/meta-rules-dat@sing/geo-lite/geosite/cn.srs"
+	  },
+	  {
+		"Tag": "gg",
+		"Url": "bwb0101/meta-rules-dat@sing/geo-lite/geosite/google.srs"
+	  },
+	  {
+		"Tag": "yb",
+		"Url": "bwb0101/meta-rules-dat@sing/geo-lite/geosite/youtube.srs"
+	  },
+	  {
+		"Tag": "ms",
+		"Url": "bwb0101/meta-rules-dat@sing/geo-lite/geosite/microsoft.srs"
+	  },
+	  {
+		"Tag": "apple",
+		"Url": "bwb0101/meta-rules-dat@sing/geo-lite/geosite/apple.srs"
+	  },
+	  {
+		"Tag": "ai",
+		"Url": "bwb0101/meta-rules-dat@sing/geo-lite/geosite/openai.srs"
+	  },
+	  {
+		"Tag": "gh",
+		"Url": "bwb0101/meta-rules-dat@sing/geo-lite/geosite/github.srs"
+	  },
+	  {
+		"Tag": "ehentai",
+		"Url": "bwb0101/meta-rules-dat@sing/geo-lite/geosite/ehentai.srs"
+	  },
+	  {
+		"Tag": "nf",
+		"Url": "bwb0101/meta-rules-dat@sing/geo-lite/geosite/netflix.srs"
+	  },
+	  {
+		"Tag": "dsn",
+		"Url": "bwb0101/meta-rules-dat@sing/geo/geosite/disney.srs"
+	  },
+	  {
+		"Tag": "hbo",
+		"Url": "bwb0101/meta-rules-dat@sing/geo/geosite/hbo.srs"
+	  },
+	  {
+		"Tag": "primevideo",
+		"Url": "bwb0101/meta-rules-dat@sing/geo/geosite/primevideo.srs"
+	  },
+	  {
+		"Tag": "bhmt",
+		"Url": "bwb0101/meta-rules-dat@sing/geo-lite/geosite/bahamut.srs"
+	  },
+	  {
+		"Tag": "abema",
+		"Url": "bwb0101/meta-rules-dat@sing/geo-lite/geosite/abema.srs"
+	  },
+	  {
+		"Tag": "bili_cn",
+		"Url": "bwb0101/meta-rules-dat@sing/geo-lite/geosite/bilibili.srs"
+	  },
+	  {
+		"Tag": "bili_!cn",
+		"Url": "bwb0101/meta-rules-dat@sing/geo-lite/geosite/biliintl.srs"
+	  }
+	]
+  }
+}
