@@ -25,6 +25,10 @@
 		"Url": "bwb0101/meta-rules-dat@sing/geo-lite/geosite/apple.srs"
 	  },
 	  {
+		"Tag": "tg",
+		"Url": "bwb0101/meta-rules-dat@sing/geo-lite/geosite/telegram.srs"
+	  },
+	  {
 		"Tag": "ai",
 		"Url": "bwb0101/meta-rules-dat@sing/geo-lite/geosite/openai.srs"
 	  },
