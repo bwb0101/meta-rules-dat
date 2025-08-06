@@ -29,6 +29,10 @@
 		"Url": "bwb0101/meta-rules-dat@sing/geo-lite/geosite/telegram.srs"
 	  },
 	  {
+		"Tag": "tg_ip",
+		"Url": "bwb0101/meta-rules-dat@sing/geo-lite/geoip/telegram.srs"
+	  },
+	  {
 		"Tag": "ai",
 		"Url": "bwb0101/meta-rules-dat@sing/geo-lite/geosite/openai.srs"
 	  },
