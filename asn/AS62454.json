@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "ip_cidr": "2a00:ccc7::/32"
+    }
+  ]
+}
