@@ -1,0 +1,14 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain_suffix": [
+        "perl.org",
+        "cpan.org",
+        "metacpan.org",
+        "modperl.pl",
+        "perl.apache.org"
+      ]
+    }
+  ]
+}
